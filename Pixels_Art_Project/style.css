@@ -1,0 +1,22 @@
+.color {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+.pixel {
+    margin: -3px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+}
+#pixel-board {
+    margin-left: 3px;
+    margin-top: 3px;
+}
